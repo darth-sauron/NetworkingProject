@@ -1,4 +1,4 @@
-A project created for Networking classes during my second year of studies at uni
+A project created for Networking classes during my second year of studies at uni (the Client class was provided by a teacher) :
 
 //A Distributed Database Protocol
 
