@@ -76,4 +76,3 @@ public class DatabaseClient {
         }
     }
 }
-// -gateway localhost:9991 -operation get-value 30
