@@ -1,3 +1,5 @@
+A project created for Networking classes during my second year of studies at uni
+
 //A Distributed Database Protocol
 
 It is a database distributed across many nodes. Each node is essentially a process on a server, which contains the data
