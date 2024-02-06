@@ -817,11 +817,3 @@ public class DatabaseNode {
 
     }
 }
-
-/*
--tcpport 9991 -record 17:256
--tcpport 9992 -record 20:500 -connect localhost:9991
--tcpport 9993 -record 80:980 -connect localhost:9992 -connect localhost:9991
--tcpport 9994 -record 30:180 -connect localhost:9993
- */
-
